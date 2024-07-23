@@ -1,2 +1,2 @@
-# Deploy HCP Vault on Azure
-TF for HCP Vault in Azure
+# Deploy HCP Vault on Azure w/ Terraform
+
